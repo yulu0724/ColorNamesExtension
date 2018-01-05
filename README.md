@@ -17,3 +17,9 @@ Lu Yu · Lichao Zhang · Joost van de Weijer · Fahad Shahbaz Khan · Yongmei Ch
 We collect images from Google by using the search query ’colorname + objects’, e.g. ’mauve objects’. An example of six images for ’ochre objects’ is provided as follows.
 
 ![The augmented color name dataset](./dataset_example.png)
+
+## Ranking additional color names
+
+In the following images, top row is the eleven basic color terms, second and third row proposed order in which to add 28 additional color names to the basic color term set.
+
+![Ranking additional color names](./ranks.png)
