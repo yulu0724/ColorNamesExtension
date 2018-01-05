@@ -14,7 +14,7 @@ Lu Yu · Lichao Zhang · Joost van de Weijer · Fahad Shahbaz Khan · Yongmei Ch
 
 ## The augmented color name dataset
 
-We collect images from Google by using the search query ’colorname + objects’, e.g. ’mauve objects’. An example of six images for ’ochre objects’ is provided as follows.
+We collect images from Google by using the search query ’colorname + objects’, e.g. ’mauve objects’. An example of six images for ’ochre objects’ is provided as follows. The complete [dataset](https://www.dropbox.com/s/gpuuj7zg0nwrrea/cn39_dataset.zip?dl=0) can be downloaded. 
 
 ![The augmented color name dataset](./dataset_example.png)
 
