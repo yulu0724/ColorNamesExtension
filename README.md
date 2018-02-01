@@ -26,4 +26,4 @@ In the following images, top row is the eleven basic color terms, second and thi
 
 ## Mapping matrices
 
-The mapping matrices of 25 and 39 color names and the corresponding orders are provided here (./mapping_matrix)
+The mapping matrices of 25 and 39 color names and the corresponding orders are provided [here] (./mapping_matrix)
