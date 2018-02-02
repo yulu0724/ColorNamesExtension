@@ -25,4 +25,6 @@ In the following images, top row is the eleven basic color terms, second and thi
 ![Ranking additional color names](./ranks.png)
 
 ## New mapping matrices 
-Code for examples of color naming image pixels is provided [here](./ExtendedColorNaming). Mapping matrices with extended color names and corresponding orders are provided [here](./ExtendedColorNaming/mapping_matrices).
+Code for examples of color naming image pixels is provided [here](./ExtendedColorNaming). Mapping matrices with extended color names and corresponding orders are provided [here](./ExtendedColorNaming/mapping_matrices). And an example is showed below.(left: original image; middle: color naming with 11 color terms; right: color naming with 25 color terms)
+![New mapping matrices](./result.png)
+
