@@ -23,3 +23,6 @@ We collect images from Google by using the search query â€™colorname + objectsâ€
 In the following images, top row is the eleven basic color terms, second and third row proposed order in which to add 28 additional color names to the basic color term set.
 
 ![Ranking additional color names](./ranks.png)
+
+## New mapping matrices 
+Code for examples of color naming image pixels is provided [here](./ExtendedColorNaming). Mapping matrices with extended color names and corresponding orders are provided [here](./ExtendedColorNaming/mapping_matrices).
